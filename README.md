@@ -29,9 +29,9 @@ My experience spans enterprise platforms, Generative AI products, and customer s
 
 ## Featured Work
 
-### Business Intelligence Calendar — User Guide
+### [Business Intelligence Calendar — User Guide](https://github.com/rattanamolkaur/technical-writing-samples/tree/main/user-guides/business-intelligence-calendar)
 
-A procedural documentation sample demonstrating task-based writing, information architecture, user guidance, and structured navigation for a business intelligence application.
+[View writing sample →](https://github.com/rattanamolkaur/technical-writing-samples/tree/main/user-guides/business-intelligence-calendar)
 
 **Demonstrates:** User documentation · Procedural writing · Information architecture · Structured content
 
