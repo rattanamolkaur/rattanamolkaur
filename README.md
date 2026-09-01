@@ -29,8 +29,6 @@ My experience spans enterprise platforms, Generative AI products, and customer s
 
 ## Featured Work
 
-### AI Guardian — Generative AI Documentation
-
 ### [AI Guardian — Generative AI Documentation](https://github.com/rattanamolkaur/technical-writing-samples/tree/main/ai-documentation/ai-guardian)
 
 Generative AI documentation demonstrating conceptual and procedural content for AI guardrails, Guardrail Service Providers, and AI safety configuration.
